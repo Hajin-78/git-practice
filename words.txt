@@ -1,0 +1,11 @@
+total 1.0K
+-rw-r--r-- 1 Hajin 197121 63 Oct 20 21:42 file_list.txt
+-rw-r--r-- 1 Hajin 197121  0 Oct 20 21:43 words.txt
+school
+class
+home
+new
+lecture
+university
+name
+

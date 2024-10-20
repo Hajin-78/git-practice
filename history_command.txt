@@ -1,0 +1,47 @@
+    1  git config --global user.name "Hajin Choi"
+    2  git config --global user.email hjc34856@gmail.com
+    3  git config --global init.defaultBranch main
+    4  git config --list
+    5  git config --list --show-origin
+    6  git config user.name
+    7  git init
+    8  ls -lha
+    9  git status
+   10  git add README.md
+   11  nano words.txt
+   12  nano .gitignore
+   13  pwd
+   14  rm
+   15  mkdir
+   16  mkdir forder1
+   17  pwd
+   18  ls -lh
+   19  ls
+   20  cd oss
+   21  ls
+   22  mkdir folder1
+   23  ls
+   24  cd folder1
+   25  ls -lh
+   26  ls -lh > file_list.txt
+   27  cat file_list.txt
+   28  cat words.txt
+   29  ls -lh > words.txt
+   30  school
+   31  cat words.txt
+   32  school
+   33  cat words.txt
+   34  sort < words.txt > sorted_words.txt
+   35  cat sorted_words.txt
+   36  cat < school < words.txt
+   37  cat words.txt
+   38  school
+   39  class
+   40  cat words.txt
+   41  cat words.txt
+   42  sort < words.txt > sorted_words.txt
+   43  cat sorted_words.txt
+   44  nano myscript.sh
+   45  sh myscript.sh
+   46  history
+   47  history > history_command.txt
